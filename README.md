@@ -1,0 +1,2 @@
+# Sekolah
+Laravel : Data Sekolah
